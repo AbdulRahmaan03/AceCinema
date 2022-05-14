@@ -1,0 +1,9 @@
+120,Raazi,Hindi,12-December,30,280
+121,Raazi,English,12-December,30,280
+123,Lion King,Tamil,24-June,30,270
+124,Lion King,Hindi,24-June,30,278
+125,2.0,English,29-November,30,270
+126,National Treasure,English,12-January,30,265
+127,2.0,Tamil,29-November,30,290
+128,Runway34,English,1-May,30,295
+129,RRR,Tamil,27-April,30,295
